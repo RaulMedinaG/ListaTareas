@@ -1,0 +1,39 @@
+button{
+    border-radius: 0.5em;
+    height: 2.5em;
+    background-color: rgb(216, 216, 216);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 10em;
+}
+
+button:hover{
+    background-color: gray;
+}
+
+button:active{
+    background-color: black;
+}
+
+.boton{
+    display: flex;
+    justify-content: center;
+}
+
+input{
+    border-radius: 0.5em;
+    width: 60vw;
+}
+
+.input{
+    display: flex;
+    justify-content: center;
+    height: 3em;
+}
+
+.input2{
+    display: flex;
+    justify-content: center;
+    height: 3em;
+}
